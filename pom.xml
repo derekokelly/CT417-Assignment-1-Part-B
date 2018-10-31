@@ -20,7 +20,7 @@
         <dependency>
             <groupId>com.github.derekokelly</groupId>
             <artifactId>CT417-Assignment-1-Part-A</artifactId>
-            <version>005853f1b55b807eb49c749820d288b9709593d1</version>
+            <version>6db9291089809024621e54470802f1629b10bc69</version>
         </dependency>
     </dependencies>
 </project>
